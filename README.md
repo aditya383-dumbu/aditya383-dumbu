@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aditya383-dumbu
 - 👀 I’m interested in ...learning new things,
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... Java
 - 💞️ I’m looking to collaborate on ... iam new at this i need help
 - 📫 How to reach me ... aditya383.com@gmail.com
 
